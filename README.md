@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Tapis%20Samaiya&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20systems%20from%20groundwater%20to%20satellites&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=17A2B8&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+Remote+Sensing+%7C+VLMs;IIT+(BHU)+Varanasi+%E2%80%94+EE+%2726;820%2B+problems+solved+%2F%2F+still+counting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=17A2B8&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+Remote+Sensing+%7C+VLMs;IIT+(BHU)+Varanasi+%E2%80%94+EE+%2726;900%2B+problems+solved+%2F%2F+still+counting)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tapish0305&label=Profile+Views&color=17A2B8&style=flat-square)
 [![Gmail](https://img.shields.io/badge/-tapissamaiya.avttr%40gmail.com-0F2027?style=flat-square&logo=gmail&logoColor=17A2B8)](mailto:tapissamaiya.avttr@gmail.com)
@@ -16,7 +16,7 @@
 
 I'm an EE undergrad (IDD) at **IIT (BHU) Varanasi**, going into my fourth year — I spend most of my time somewhere between a research paper draft and a Codeforces tab.
 
-- 🌍 Currently working on **satellite imagery understanding** — grounding language to pixels using VLMs
+- 🌍 Worked on **satellite imagery understanding** — grounding language to pixels using VLMs
 - 💧 Co-author on a **groundwater reconstruction study** spanning 4,500+ Indian wells, currently under review at a Nature journal
 - 🔌 Also have a paper on **PCB defect detection** under review at IEEE Transactions
 - 🧩 Solve competitive programming problems on the side — mostly for the "wait, *why* does this break" feeling
